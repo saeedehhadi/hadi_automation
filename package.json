@@ -1,0 +1,1 @@
+{"devDependencies":{"cypress":"^12.2.0"},"scripts":{"cypress:open":"cypress open"},"dependencies":{"cypress-real-events":"^1.7.6"}}
